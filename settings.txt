@@ -1,0 +1,2 @@
+Record the baseline value here. During the experiment, change this same line on two branches to create a merge conflict.
+environment=development
